@@ -1,4 +1,8 @@
 # MacFreeVPN
-MAC免费VPN工具
 
-1、在Mac安装上TunnelBlick工具。
+
+1、openvpn-as-2.1.4-CentOS6.x86_64.rpm  ---->  linux服务器端OpenVPN安装包（RedHat、Debian、Ubuntu）。
+2、openvpn-connect-2.1.3.110.msi        ---->  Windows客户端安装包。
+3、openvpn-connect-2.1.3.110.dmg        ---->  Mac客户端安装包。
+4、openvpn-connect-1-1-17.apk           ---->  Android客户端安装包。
+5、ios客户端请到App Store下载OpenVPN Connect，注：US App Store。
