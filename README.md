@@ -11,4 +11,5 @@
 
 5、ios客户端请到App Store下载OpenVPN Connect，注：US App Store。
 
-使用参考链接：https://openvpn.net/index.php/access-server/on-amazon-cloud.html或联系我邮箱：liuqing@marrymin.com
+参考链接：https://openvpn.net/index.php/access-server/on-amazon-cloud.html
+联系邮箱：liuqing@marrymin.com
