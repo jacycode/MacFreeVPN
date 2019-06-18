@@ -1,5 +1,6 @@
 # MacFreeVPN
 
+## OpenVPN
 
 1、openvpn-as-2.1.4-CentOS6.x86_64.rpm  ---->  linux服务器端OpenVPN安装包（RedHat、Debian、Ubuntu）。
 
@@ -12,4 +13,7 @@
 5、ios客户端请到App Store下载OpenVPN Connect，注：US App Store。
 
 参考链接：https://openvpn.net/index.php/access-server/on-amazon-cloud.html
-联系邮箱：liuqing@marrymin.com
+
+## ShadowsSocks
+
+1、https://www.marrymin.com/GroceryStore/shadowsockvpn.html
